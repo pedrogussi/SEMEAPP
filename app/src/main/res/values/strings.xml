@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NemaacMk3</string>
+    <string name="dicas_pr_ticas_de_regulagem_de_semeadora_girar_10_voltas_da_roda_motriz_e_coletar_as_sementes_contar_o_n_meros_de_sementes_ca_das_em_dez_voltas_conferir_a_calibragem_e_e_medir_o_raio_do_rodado_da_semeadora_conferir_a_popula_o_recomendada_encontrar_o_valor_do_espa_amento_entre_sementes">Dicas práticas de regulagem de semeadora • Girar 10 voltas da roda motriz e coletar as sementes; • Contar o números de sementes caídas em dez voltas; • Conferir a calibragem e e medir o raio do rodado da semeadora; • Conferir a população recomendada; • Encontrar o valor do espaçamento entre sementes;</string>
+    <string name="Semeapp">SEMEAPP</string>
+    <string name="SEMEAPP">SEMEAPP</string>
+</resources>

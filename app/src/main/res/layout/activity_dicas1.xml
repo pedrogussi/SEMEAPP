@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:keepScreenOn="false"
+    android:orientation="vertical"
+    tools:context=".dicas1">
+
+
+    <TextView
+        android:id="@+id/textDicas"
+        android:layout_width="382dp"
+        android:layout_height="557dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:padding="5dp"
+
+        android:text="Método prático de regulagem \n
+•	Girar 10 voltas da roda motriz e contar as sementes \n
+•	Transformar o valor para sem/ha \n
+•	Conferir com a recomendação indicada \n
+
+Manutenção \n
+	Antes da semeadura \n
+   •	Fazer a limpeza da semeadora \n
+   •	Substituir peças gastas ou danificadas \n
+   •	Regular a semeadora com o aplicativo \n
+
+	Durante a semeadura \n
+   •	Verificar a regulagem e a liberação de sementes e adubo \n
+   •	Evitar intempéries(chuva)  \n
+   •	Promover a lubrificação diária \n
+
+	Após a semeadura \n
+   •	Limpeza geral \n
+   •	Lubrificação\n
+   •	Suspender a semeadora sobre calços \n
+   •	Guardar em abrigo \n"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.461"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
